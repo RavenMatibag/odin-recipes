@@ -1,7 +1,25 @@
 body{
     text-align: center;
-}
+    margin: 120px;
+    margin-top: auto;
+    padding: 5px;
+    margin-bottom: auto;
+    background-color: white;
+    color: brown;
+}   
 
 ul{
-    display: inline-block;
+    text-align: left;
+    padding-left: 550px;
+    color: #000;;
+    font-size: larger  ;
+}
+
+
+li:hover{
+    color: blue;
+}
+
+img{
+    border: 5px solid wheat;
 }
